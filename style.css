@@ -24,9 +24,9 @@ body {
   padding: 40px;
 }
 img.background {
-  min-height: 50%;
+  min-height: 40%;
   min-width: 320px;
-  width: 50%;
+  width: 40%;
   height: auto;
   position: fixed;
   top: 0;
